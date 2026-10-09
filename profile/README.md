@@ -25,7 +25,7 @@ Searches such as Topaz DeNoise AI noise removal, Topaz DeNoise AI photo cleanup,
 | **Remembers context** | Files, models, and presets help you return to the next task fast. |
 | **Fast feedback** | Open Topaz DeNoise AI, pick a file, and preview without switching tools. |
 
-![Topaz DeNoise AI](https://i6.imageban.ru/out/2023/03/03/7282e8a4f23acfb8ebda6096b2c98fc0.png)
+![Topaz DeNoise AI](https://avatars.mds.yandex.net/i?id=32548b75040faaeea7a38d9d05be1255_l-5219488-images-thumbs&n=13)
 
 ## Key Features of Topaz DeNoise AI
 
